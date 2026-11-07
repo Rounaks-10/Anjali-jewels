@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+/* @keyframes rotateFade {
+  0% { opacity: 0; transform: translateY(2px); }
+  20% { opacity: 1; transform: translateY(0); }
+  80% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-2px); }
+}
+
+.animate-rotateText {
+  animation: rotateFade 2s ease-in-out infinite;
+} */
+@keyframes slideDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+.animate-slideDown {
+  animation: slideDown 1s ease-out;
+}
+h2{
+  font-family: Fraunces;
+}
+#text{
+  font-family: 'HV Fitzgerald';
+  font-weight: 400;
+}
+#sort{
+  font-family: Fraunces;
+}
