@@ -127,6 +127,15 @@ Anjali Jewleries/
   <img src="screenshots/home-4.png" width="100%" alt="Homepage 4"/>
   <br/><br/>
   <img src="screenshots/home-5.png" width="100%" alt="Homepage 5"/>
+  <br/><br/>
+  <img src="screenshots/home-6.png" width="100%" alt="Homepage 5"/>
+  <br/><br/>
+  <img src="screenshots/home-7.png" width="100%" alt="Homepage 5"/>
+  <br/><br/>
+  <img src="screenshots/home-8.png" width="100%" alt="Homepage 5"/>
+  <br/><br/>
+  <img src="screenshots/home-9.png" width="100%" alt="Homepage 5"/>
+  
 </div>
 
 ---
