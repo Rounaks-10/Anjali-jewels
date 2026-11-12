@@ -108,6 +108,66 @@ Anjali Jewleries/
     └── services/
 ```
 
+
+<!-- ================= HOMEPAGE SHOWCASE ================= -->
+
+<h2 align="center">🏠 Homepage Showcase</h2>
+
+<p align="center">
+  Explore the Anjali Jewels homepage and its visual sections.
+</p>
+
+<div align="center">
+  <img src="screenshots/home-1.png" width="100%" alt="Homepage 1"/>
+  <br/><br/>
+  <img src="screenshots/home-2.png" width="100%" alt="Homepage 2"/>
+  <br/><br/>
+  <img src="screenshots/home-3.png" width="100%" alt="Homepage 3"/>
+  <br/><br/>
+  <img src="screenshots/home-4.png" width="100%" alt="Homepage 4"/>
+  <br/><br/>
+  <img src="screenshots/home-5.png" width="100%" alt="Homepage 5"/>
+</div>
+
+---
+
+<!-- ================= LOGIN & SIGNUP ================= -->
+
+<h2 align="center">🔐 Authentication Experience</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <b>Login Page</b><br/><br/>
+      <img src="screenshots/login.png" width="100%" alt="Login"/>
+    </td>
+    <td width="50%" align="center">
+      <b>Signup Page</b><br/><br/>
+      <img src="screenshots/signup.png" width="100%" alt="Signup"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ================= MOBILE SHOWCASE ================= -->
+
+<h2 align="center">📱 Mobile Experience</h2>
+
+<p align="center">
+  Responsive design across mobile screen sizes.
+</p>
+
+<div align="center">
+  <img src="screenshots/mobile-1.png" width="45%" alt="Mobile View 1"/>
+  <img src="screenshots/mobile-2.png" width="45%" alt="Mobile View 2"/>
+  <br/><br/>
+  <img src="screenshots/mobile-3.png" width="45%" alt="Mobile View 3"/>
+  <img src="screenshots/mobile-4.png" width="45%" alt="Mobile View 4"/>
+</div>
+
+
+
 ## Technology
 
 ### Frontend
